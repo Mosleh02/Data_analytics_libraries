@@ -88,28 +88,30 @@ Several visualizations are used to understand the dataset:
 
 **Height Distribution**
 
-![Height Distribution](images/Height Distribution.png)
+![Height Distribution](images/Height_Distribution.png)
 
 
 **Age vs Height**
 
 ![Scatter Plot](images/scatter.png)
+
 Key Observation: No significant correlation between the two attributes was found
 
 
 **Height by Gender**
 
 ![Boxplot](images/Boxplot.png)
+
 Key Observation: boxplot comparison shows that the median height for females appears higher than males in this sample, which may indicate sampling bias or dataset limitations.
 
 ## Credit Card Distribution
 
-![Card Distribution](images/Card Distribution.png)
+![Card Distribution](images/Card_Distribution.png)
 
 
 ## Top 10 Cities with Most Users
 
-![Top Cities](images/Top 10 Cities with most users.png)
+![Top Cities](images/Top_10_Cities_with_most_users.png)
 
 
 
